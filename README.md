@@ -26,14 +26,22 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/assets/Musica1.png" width="100%" alt="Musica Preview" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/Assets/ss1.jpg" width="31%" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/Assets/ss2.jpg" width="31%" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/Assets/ss3.jpg" width="31%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/Assets/ss4.jpg" width="31%" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/Assets/ss5.jpg" width="31%" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/Assets/ss6.jpg" width="31%" />
 </p>
 
 ---
 
 ## 🎵 About Musica
 
-**Musica** is a fast, lightweight desktop music player built with **Tauri + Rust** for listeners who want speed, modern glassmorphic design, and full control over their music without subscriptions, ads, or bloat.
+**Musica** is a fast, lightweight desktop & android music player built with **Tauri + Rust** for listeners who want speed, modern glassmorphic design, and full control over their music without subscriptions, ads, or bloat.
 
 Stream songs directly from YouTube Music, follow live synced lyrics, customize your sound with a built-in 10-band equalizer and crossfade, download tracks or full albums for 100% offline listening, and share playlists seamlessly with friends.
 
