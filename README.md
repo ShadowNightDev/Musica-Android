@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/assets/musica-logo.png" width="120" alt="Musica Logo" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/sonix-music/main/assets/musica-logo.png" width="120" alt="Musica Logo" />
 </p>
 
 <h1 align="center">🎧 Musica</h1>
