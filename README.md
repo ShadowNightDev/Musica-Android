@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/musica-logo.png" width="120" alt="Musica Logo" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/assets/musica-logo.png" width="120" alt="Musica Logo" />
 </p>
 
 <h1 align="center">🎧 Musica</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/ShadowNightDev/Sonix-Music/total?style=for-the-badge&color=6c47ff&label=Downloads" />
-  <img src="https://img.shields.io/github/v/release/ShadowNightDev/Sonix-Music?style=for-the-badge&color=blue&label=Version" />
-  <img src="https://img.shields.io/github/license/ShadowNightDev/Sonix-Music?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/downloads/ShadowNightDev/Musica-Android/total?style=for-the-badge&color=6c47ff&label=Downloads" />
+  <img src="https://img.shields.io/github/v/release/ShadowNightDev/Musica-Android?style=for-the-badge&color=blue&label=Version" />
+  <img src="https://img.shields.io/github/license/ShadowNightDev/Musica-Android?style=for-the-badge&color=orange" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/Musica1.png" width="100%" alt="Musica Preview" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Musica-Android/main/assets/Musica1.png" width="100%" alt="Musica Preview" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Stream songs directly from YouTube Music, follow live synced lyrics, customize y
 
 Get the latest Windows release of **Musica**:
 
-👉 **[Download Latest Release](https://github.com/ShadowNightDev/Sonix-Music/releases/latest)** or visit **[shadownightdev.my.id/musica](https://www.shadownightdev.my.id/musica)**
+👉 **[Download Latest Release](https://github.com/ShadowNightDev/Musica-Android/releases/latest)** or visit **[shadownightdev.my.id/musica](https://www.shadownightdev.my.id/musica)**
 
 * **Setup Installer (`.exe`)** — Recommended for standard installation & `musica://` link integration
 * **MSI Installer (`.msi`)** — Windows Installer package
